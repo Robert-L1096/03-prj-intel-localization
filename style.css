@@ -152,3 +152,15 @@ p:last-of-type {
   margin: 24px 0 16px 0;
   font-size: 1rem;
 }
+
+
+/* Optionally, if you add a class to the section, e.g. testimonials-section, use:
+.testimonials-section .card,
+.testimonials-section .card:hover,
+.testimonials-section .card:focus {
+  box-shadow: none !important;
+  transform: none !important;
+  z-index: auto !important;
+  transition: none !important;
+}
+*/
